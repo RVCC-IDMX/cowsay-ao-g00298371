@@ -1,2 +1,2 @@
 # Cows Say it Best.
-![Alt text](Cowsay_Output)
+![Alt text](Cowsay_Output.png)
